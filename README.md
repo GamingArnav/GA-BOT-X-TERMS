@@ -1,0 +1,1 @@
+# GA-BOT-X-TERMS
