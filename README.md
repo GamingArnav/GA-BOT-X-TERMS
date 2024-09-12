@@ -1,4 +1,4 @@
-#GA BOT X Terms of Service
+# GA BOT X Terms of Service
 Last Updated: 9.12.2024
 
 Welcome to GA BOT X, an all-in-one Discord bot designed to enhance your server experience. By using GA BOT X, you agree to comply with and be bound by the following Terms of Service. Please read them carefully.
@@ -41,5 +41,5 @@ These ToS are governed by the laws of India. Any disputes arising from the use o
 11. Changes to Terms
 We reserve the right to modify or update these terms at any time. You will be notified of any significant changes via announcements or updates. Continued use of GA BOT X after the changes will constitute your acceptance of the revised terms.
 
-##12. Contact
+## 12. Contact
 If you have any questions or concerns regarding these Terms of Service, please contact us at arnavjalhotra123@gmail.com.
